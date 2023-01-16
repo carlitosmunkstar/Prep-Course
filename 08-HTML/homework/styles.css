@@ -1,0 +1,30 @@
+body{
+background-image: url(https://fondosmil.com/fondo/17010.jpg);
+background-repeat: no-repeat;
+background-position: center center;
+}
+
+
+img{
+    width: 400px;
+}
+
+.divClass{
+    margin: 0 auto;
+    background-color: coral;
+
+}
+
+#thirdDiv {
+    margin: 0 auto;
+    height: 600px;
+    width: 500px;
+    background-color: aquamarine;
+    padding: 50px;
+    border: 2px solid skyblue;
+}
+
+#spanId {
+    font-size:  18px;
+    margin: 50px;
+}
